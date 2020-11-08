@@ -1,0 +1,65 @@
+C:\Users\Gh0st\Music\Nomayin\Nomayin\bin\Debug\Nomayin.exe.config
+C:\Users\Gh0st\Music\Nomayin\Nomayin\bin\Debug\Nomayin.exe
+C:\Users\Gh0st\Music\Nomayin\Nomayin\bin\Debug\Nomayin.pdb
+C:\Users\Gh0st\Music\Nomayin\Nomayin\obj\Debug\Nomayin.Form1.resources
+C:\Users\Gh0st\Music\Nomayin\Nomayin\obj\Debug\Nomayin.Properties.Resources.resources
+C:\Users\Gh0st\Music\Nomayin\Nomayin\obj\Debug\Nomayin.csproj.GenerateResource.Cache
+C:\Users\Gh0st\Music\Nomayin\Nomayin\obj\Debug\Nomayin.exe
+C:\Users\Gh0st\Music\Nomayin\Nomayin\obj\Debug\Nomayin.pdb
+C:\Users\Gh0st\Music\Nomayin\Nomayin\obj\Debug\Nomayin.csprojResolveAssemblyReference.cache
+C:\Users\Gh0st\Music\Nomayin\Nomayin\obj\Debug\Nomayin.Payments.resources
+D:\Nomayin\Nomayin\obj\Debug\Nomayin.csprojAssemblyReference.cache
+D:\Nomayin\Nomayin\obj\Debug\Nomayin.Form1.resources
+D:\Nomayin\Nomayin\obj\Debug\Nomayin.Payments.resources
+D:\Nomayin\Nomayin\obj\Debug\Nomayin.Properties.Resources.resources
+D:\Nomayin\Nomayin\obj\Debug\Nomayin.csproj.GenerateResource.cache
+D:\Nomayin\Nomayin\obj\Debug\Nomayin.csproj.CoreCompileInputs.cache
+D:\Nomayin\Nomayin\obj\Debug\Nomayin.exe
+D:\Nomayin\Nomayin\obj\Debug\Nomayin.pdb
+D:\Nomayin\Nomayin\bin\Debug\Nomayin.exe.config
+D:\Nomayin\Nomayin\bin\Debug\Nomayin.exe
+C:\Users\mcuser\Desktop\Nomayin\Nomayin\bin\Debug\Nomayin.exe.config
+C:\Users\mcuser\Desktop\Nomayin\Nomayin\bin\Debug\Nomayin.exe
+C:\Users\mcuser\Desktop\Nomayin\Nomayin\bin\Debug\Nomayin.pdb
+C:\Users\mcuser\Desktop\Nomayin\Nomayin\obj\Debug\Nomayin.csprojAssemblyReference.cache
+C:\Users\mcuser\Desktop\Nomayin\Nomayin\obj\Debug\Nomayin.Form1.resources
+C:\Users\mcuser\Desktop\Nomayin\Nomayin\obj\Debug\Nomayin.Payments.resources
+C:\Users\mcuser\Desktop\Nomayin\Nomayin\obj\Debug\Nomayin.Properties.Resources.resources
+C:\Users\mcuser\Desktop\Nomayin\Nomayin\obj\Debug\Nomayin.csproj.GenerateResource.cache
+C:\Users\mcuser\Desktop\Nomayin\Nomayin\obj\Debug\Nomayin.csproj.CoreCompileInputs.cache
+C:\Users\mcuser\Desktop\Nomayin\Nomayin\obj\Debug\Nomayin.exe
+C:\Users\mcuser\Desktop\Nomayin\Nomayin\obj\Debug\Nomayin.pdb
+C:\Users\mcuser\Desktop\jj\Nomayin\bin\Debug\Nomayin.exe.config
+C:\Users\mcuser\Desktop\jj\Nomayin\bin\Debug\Nomayin.exe
+C:\Users\mcuser\Desktop\jj\Nomayin\bin\Debug\Nomayin.pdb
+C:\Users\mcuser\Desktop\jj\Nomayin\obj\Debug\Nomayin.csprojAssemblyReference.cache
+C:\Users\mcuser\Desktop\jj\Nomayin\obj\Debug\Nomayin.Form1.resources
+C:\Users\mcuser\Desktop\jj\Nomayin\obj\Debug\Nomayin.Payments.resources
+C:\Users\mcuser\Desktop\jj\Nomayin\obj\Debug\Nomayin.Properties.Resources.resources
+C:\Users\mcuser\Desktop\jj\Nomayin\obj\Debug\Nomayin.csproj.GenerateResource.cache
+C:\Users\mcuser\Desktop\jj\Nomayin\obj\Debug\Nomayin.csproj.CoreCompileInputs.cache
+C:\Users\mcuser\Desktop\jj\Nomayin\obj\Debug\Nomayin.exe
+C:\Users\mcuser\Desktop\jj\Nomayin\obj\Debug\Nomayin.pdb
+C:\Users\mcuser\Desktop\Nyoka\Nomayin\bin\Debug\Nomayin.exe.config
+C:\Users\mcuser\Desktop\Nyoka\Nomayin\bin\Debug\Nomayin.exe
+C:\Users\mcuser\Desktop\Nyoka\Nomayin\bin\Debug\Nomayin.pdb
+C:\Users\mcuser\Desktop\Nyoka\Nomayin\obj\Debug\Nomayin.csprojAssemblyReference.cache
+C:\Users\mcuser\Desktop\Nyoka\Nomayin\obj\Debug\Nomayin.Form1.resources
+C:\Users\mcuser\Desktop\Nyoka\Nomayin\obj\Debug\Nomayin.Payments.resources
+C:\Users\mcuser\Desktop\Nyoka\Nomayin\obj\Debug\Nomayin.Properties.Resources.resources
+C:\Users\mcuser\Desktop\Nyoka\Nomayin\obj\Debug\Nomayin.csproj.GenerateResource.cache
+C:\Users\mcuser\Desktop\Nyoka\Nomayin\obj\Debug\Nomayin.csproj.CoreCompileInputs.cache
+C:\Users\mcuser\Desktop\Nyoka\Nomayin\obj\Debug\Nomayin.exe
+C:\Users\mcuser\Desktop\Nyoka\Nomayin\obj\Debug\Nomayin.pdb
+C:\Users\Ntuthuko Nene\Desktop\Final nomayin\Final nomayin\Nomayin\bin\Debug\Nomayin.exe.config
+C:\Users\Ntuthuko Nene\Desktop\Final nomayin\Final nomayin\Nomayin\bin\Debug\Nomayin.exe
+C:\Users\Ntuthuko Nene\Desktop\Final nomayin\Final nomayin\Nomayin\bin\Debug\Nomayin.pdb
+C:\Users\Ntuthuko Nene\Desktop\Final nomayin\Final nomayin\Nomayin\obj\Debug\Nomayin.csprojAssemblyReference.cache
+C:\Users\Ntuthuko Nene\Desktop\Final nomayin\Final nomayin\Nomayin\obj\Debug\Nomayin.Form1.resources
+C:\Users\Ntuthuko Nene\Desktop\Final nomayin\Final nomayin\Nomayin\obj\Debug\Nomayin.Payments.resources
+C:\Users\Ntuthuko Nene\Desktop\Final nomayin\Final nomayin\Nomayin\obj\Debug\Nomayin.Properties.Resources.resources
+C:\Users\Ntuthuko Nene\Desktop\Final nomayin\Final nomayin\Nomayin\obj\Debug\Nomayin.csproj.GenerateResource.cache
+C:\Users\Ntuthuko Nene\Desktop\Final nomayin\Final nomayin\Nomayin\obj\Debug\Nomayin.csproj.CoreCompileInputs.cache
+C:\Users\Ntuthuko Nene\Desktop\Final nomayin\Final nomayin\Nomayin\obj\Debug\Nomayin.exe
+C:\Users\Ntuthuko Nene\Desktop\Final nomayin\Final nomayin\Nomayin\obj\Debug\Nomayin.pdb
+C:\Users\Ntuthuko Nene\Desktop\Final nomayin\Final nomayin\Nomayin\obj\Debug\Nomayin.SplashScreen.resources
